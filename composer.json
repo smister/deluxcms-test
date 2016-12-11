@@ -1,0 +1,17 @@
+{
+    "name": "deluxcms/test",
+    "description": "test for composer",
+    "keywords": ["yii2", "deluxcms"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smister",
+            "email": "398009951@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": { "deluxcms\\test\\": "" }
+    }
+}
